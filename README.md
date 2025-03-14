@@ -1,2 +1,2 @@
 # plugins.techniqstone.net
-Official TechniqStone Plugins
+Offizielle Website von TechniqStone Plugins
