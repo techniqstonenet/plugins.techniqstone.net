@@ -1,6 +1,6 @@
 # plugins.techniqstone.net
 
-<div>
+<div align="center">
     Website
 </div>
 
